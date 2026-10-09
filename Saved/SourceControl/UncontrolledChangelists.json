@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tcole/OneDrive/Desktop/MyProject/Content/LevelPrototyping/moving_platform.uasset",
+				"C:/Users/tcole/OneDrive/Desktop/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/7K/CDHG5CDTR8MJV995CA7WB9.uasset"
+			]
+		}
+	]
+}
